@@ -21,3 +21,9 @@ First Edit Compare.
 ## Introduction
 
 4th Edit for compare
+
+## How to contribute
+
+5th edit - Staged
+
+6th Edit - Unstage
