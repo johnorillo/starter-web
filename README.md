@@ -23,6 +23,7 @@ First Edit Compare.
 4th Edit for compare
 
 ## How to contribute
+8th Fork and pull this repo
 
 5th edit - Staged
 
