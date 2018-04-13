@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## For Comaprison Experiments
 
 First Edit Compare.
+
+## Deployment
+
+2nd Edit for comapre
