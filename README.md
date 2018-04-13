@@ -27,3 +27,7 @@ First Edit Compare.
 5th edit - Staged
 
 6th Edit - Unstage
+
+## Branch Basics
+
+7th edit - for Disable FM
